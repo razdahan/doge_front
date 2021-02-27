@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'Manrope'; /*a name to be used later*/
+  src: url('./fonts/Manrope-Regular.ttf'); /*URL to font*/
+}
+@font-face {
+  font-family: 'manropemed'; /*a name to be used later*/
+  src: url('./fonts/Manrope-Medium.ttf'); /*URL to font*/
+}
+@font-face {
+  font-family: 'manropebold'; /*a name to be used later*/
+  src: url('./fonts/Manrope-Bold.ttf'); /*URL to font*/
+}
+
+@font-face {
+  font-family: 'manropelight'; /*a name to be used later*/
+  src: url('./fonts/Manrope-Light.ttf'); /*URL to font*/
+}
+@font-face {
+  font-family: 'manropesemibold'; /*a name to be used later*/
+  src: url('./fonts/Manrope-SemiBold.ttf'); /*URL to font*/
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
