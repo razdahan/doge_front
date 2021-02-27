@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/doge_front/static/css/main.2feab247.chunk.css",
+    "main.js": "/doge_front/static/js/main.bc55ed99.chunk.js",
+    "main.js.map": "/doge_front/static/js/main.bc55ed99.chunk.js.map",
+    "runtime-main.js": "/doge_front/static/js/runtime-main.ca80cceb.js",
+    "runtime-main.js.map": "/doge_front/static/js/runtime-main.ca80cceb.js.map",
+    "static/js/2.b77b2a07.chunk.js": "/doge_front/static/js/2.b77b2a07.chunk.js",
+    "static/js/2.b77b2a07.chunk.js.map": "/doge_front/static/js/2.b77b2a07.chunk.js.map",
+    "static/js/3.56fffc7e.chunk.js": "/doge_front/static/js/3.56fffc7e.chunk.js",
+    "static/js/3.56fffc7e.chunk.js.map": "/doge_front/static/js/3.56fffc7e.chunk.js.map",
+    "index.html": "/doge_front/index.html",
+    "static/css/main.2feab247.chunk.css.map": "/doge_front/static/css/main.2feab247.chunk.css.map",
+    "static/js/2.b77b2a07.chunk.js.LICENSE.txt": "/doge_front/static/js/2.b77b2a07.chunk.js.LICENSE.txt",
+    "static/media/Idea.86bcf48b.png": "/doge_front/static/media/Idea.86bcf48b.png",
+    "static/media/index.css": "/doge_front/static/media/Manrope-SemiBold.26ad6bf1.ttf",
+    "static/media/logo.6ce24c58.svg": "/doge_front/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca80cceb.js",
+    "static/js/2.b77b2a07.chunk.js",
+    "static/css/main.2feab247.chunk.css",
+    "static/js/main.bc55ed99.chunk.js"
+  ]
+}
